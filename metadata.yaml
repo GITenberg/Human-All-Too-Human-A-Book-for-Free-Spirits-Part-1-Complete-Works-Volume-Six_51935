@@ -1,5 +1,5 @@
 _repo: Human-All-Too-Human-A-Book-for-Free-Spirits-Part-1-Complete-Works-Volume-Six_51935
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Kennedy, J. M. (John McFarland)
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '1466'
     url: http://www.gutenberg.org/2009/agents/1466
     wikipedia: http://en.wikipedia.org/wiki/Helen_Zimmern
+covers:
+- cover_type: archival
+  image_path: 51935-h/images/cover.png
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7862
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51935#Human-All-Too-Human-A-Book-for-Free-Spirits-Part-1-Complete-Works-Volume-Six
 gutenberg_issued: '2016-05-02'
 gutenberg_type: Text
 identifiers:
